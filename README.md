@@ -6,7 +6,7 @@ Repository associated with the publication
 If you use have iny inquire about the scripts in this repository contact isai@email.unc.edu or open an issue ticket.
 
 
-This repository is arranged in 3 folders:
+This repository is arranged in 3 folders: <br />
 scripts: Contains all the R scripts used for all the analyses presented in the article.<br />
 cleandata: Contains RDS objects ready to be read in R. These objects are organized structures of data required to reproduce all the results and figures in the manuscript <br />
 rawdata: Contains tab delimited count matrix. <br />
