@@ -1,7 +1,7 @@
 # helperless
 Repository associated with the publication
-#### Arabidopsis defense activation by sensor NLRs requires two unequally redundant helper NLR families acting as classical CNLs
-Svenja C. Saile, Pierre Jacob2, Baptiste Castel, Lance M. Jubic, Isai Salas-Gonzalez, Marcel Bäcker, Jonathan D. G. Jones, Jeffery L. Dangl and Farid El Kasmi
+#### Two unequally redundant ‘helper’ immune receptor families mediate Arabidopsis intracellular ‘sensor’ immune receptor functions
+Svenja C. Saile, Pierre Jacob, Baptiste Castel, Lance M. Jubic, Isai Salas-Gonzalez, Marcel Bäcker, Jonathan D. G. Jones, Jeffery L. Dangl and Farid El Kasmi
 
 
 This repository is arranged in 3 folders:
