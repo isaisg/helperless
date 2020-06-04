@@ -1,6 +1,6 @@
 # helperless
 Repository associated with the publication
-#### Two unequally redundant ‘helper’ immune receptor families mediate Arabidopsis intracellular ‘sensor’ immune receptor functions
+## Two unequally redundant ‘helper’ immune receptor families mediate Arabidopsis intracellular ‘sensor’ immune receptor functions
 Svenja C. Saile, Pierre Jacob, Baptiste Castel, Lance M. Jubic, Isai Salas-Gonzalez, Marcel Bäcker, Jonathan D. G. Jones, Jeffery L. Dangl and Farid El Kasmi
 
 
